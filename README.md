@@ -8,11 +8,11 @@ This project outlines our proven methodology: applying **Agile Management (Scrum
 
 ---
 
-## 🛑 The Problem vs. The CCS Solution
+## 🛑 The Problem vs. The Agile Solution
 
 The core of our approach addresses the operational failures of traditional compliance management, which suffered from task accumulation and over-reliance on individual competence.
 
-| The Traditional Challenge (The Flaw) | The CCS Solution (The Agile Fix) |
+| The Traditional Challenge | The Agile Solution |
 | :--- | :--- |
 | **❌ Accumulation & Opacity:** Large tasks rely on individuals' competency, leading to audit failures. | **✅ "Divide and Conquer" Principle:** Tasks are broken into small, auditable **Task Cards (GitHub Issues)**, ensuring accountability is process-driven. |
 | **❌ Inconsistency:** Compliance is a "cramming" effort before the audit, making the ISMS non-living. | **✅ Monthly Sprint Cadence:** Work is pulled into **monthly cycles**, guaranteeing the ISMS is a **sustainable and living structure** maintained consistently throughout the year. |
