@@ -1,5 +1,9 @@
 ---
-# YAML HEADER GOES HERE (as defined above)
+Content from Template	GitHub Template YAML Mapping
+name: Compliance Maintenance Task (Recurring)	name: Compliance Maintenance Task (Recurring)
+about: Use for scheduled tasks...	about: Use for scheduled tasks pulled into the Monthly Sprint to maintain ISMS controls.
+title: "[ISMS] [FREQUENCY] Task Title..."	title: "[ISMS] [FREQUENCY] Task Title (e.g., Q1 Access Review)"
+labels: [ISMS, Periyot:Aylık]	labels: [ISMS, Monthly] (Using English labels)
 ---
 
 ## 1. Task Context & Objective (The "Why")
