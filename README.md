@@ -33,13 +33,13 @@ This creates the **Product Backlog** and the strategic map, housed in the primar
 | :--- | :--- | :--- |
 | **Master Backlog** | **GitHub Project (Table View)** | Houses the exhaustive list of all recurring ISO 27001 duties, serving as the central planning hub. |
 | **Recurring Tasks** | **Issues** | Every recurring control is a standalone **Issue** (e.g., *Annual Management Review*). |
-| **Custom Fields** | **Project Settings** | **`Risk Seviyesi`** and **`Kontrol Sahibi`** are added to enable risk-based prioritization and separate execution from permanent control ownership. |
+| **Custom Fields** | **Project Settings** | **`Risk Level`** and **`Control Owner`** are added to enable risk-based prioritization and separate execution from permanent control ownership. |
 
 ### Step 2: Implement the Agile Flow (The Monthly Execution)
 
 This is the execution phase, simulating your team's **Monthly Sprint** using a Kanban board.
 
-| Action | GitHub Area | CCS Rationale |
+| Action | GitHub Area | Agile Rationale |
 | :--- | :--- | :--- |
 | **Create Sprint** | **GitHub Project (Kanban View)** | A new board is created monthly (e.g., `2026 February Sprint`) to define the short-term commitment. |
 | **"Divide & Conquer"** | **Issues/Task Lists** | Large **Master Backlog** Issues are broken down into granular steps and pulled into the Sprint board's **`To Do`** column. |
